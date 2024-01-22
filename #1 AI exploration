@@ -103,3 +103,13 @@ print(f"There are {num_positive} positive and {num_negative} negative r
 
 
 
+#3 
+import pandas as pd
+# Calcu late the mean of
+the last col umn
+= df.iloc[ —1
+mean value
+: ] . mean ( )
+print (mean value)
+
+
