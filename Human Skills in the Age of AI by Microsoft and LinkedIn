@@ -272,3 +272,68 @@ economic or regulatory conditions,
 shifting trends?"
 
 
+
+
+@@@@
+Biases in GEN AI 
+1. Historical 
+
+"Is the information on MBA earning
+potential based on recent data from
+(insert current year), or could it be
+influenced by periods where an MBA
+was perhaps more valuable?"
+
+
+"Do the career paths for the MBA you
+mention reflect current economic
+conditions, or are they based on
+historical trends?"
+
+2. Representative ( of all perspectives )
+
+"Do your statistics on the benefits of an
+MBA include perspectives from various
+demographics such as minorities and
+women?"
+
+3. Cultural 
+
+"Is the data on MBA benefits primarily
+sourced from Western countries? How
+might the experience differ in other
+parts of the world?"
+
+
+"Is opening a food truck more or less
+esteemed in certain cultures? How
+might cultural perceptions be affecting
+your recommendation?"
+
+4. Algorithm bias
+
+"In recommending an MBA, are you
+leaning heavily on frequently-cited
+benefits like salary and networking,
+possibly at the expense of other valid
+but less-discussed benefits?"|
+
+"When dismissing the food truck idea,
+are you doing so because most of the
+data favors traditional career paths over
+entrepreneurial ones?"
+
+
+5. Data drift bias 
+"Is the data you're using to recommend
+an MBA current, or is it a snapshot from
+when you were last trained?"
+
+"How might shifts in the economy or job
+market since your last update affect the
+relevance of your advice?"
+
+
+
+
+
